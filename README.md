@@ -9,7 +9,7 @@ Feel free to explore, learn, and contribute! If you have suggestions, or improve
 The repository is organized into daily challenge folders, each containing:
 
 - **`question.md`**: The coding question for the day.
-- **`solution.py`**: My solution to the question.
+- **`solution.cpp`**: My solution to the question.
 - **`explanation.md`**: Detailed explanation of the solution.
 
 ## How to Contribute
